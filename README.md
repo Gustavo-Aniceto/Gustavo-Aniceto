@@ -1,7 +1,7 @@
 ## 💫 About Me:
 ### Print("ola! Sou Gustavo Aniceto👋")
-- 🔭 Focado na area de Back end
-- 🌱 Estudando C#,Java e Python
+- 🔭 Focado na area de FullStack
+- 🌱 Estudando PHP(Laravel),Java e Python
 - 📫 Como entrar em contato comigo:guuhaniceto@gmail.com
 
 ## 📊 GitHub Stats:
